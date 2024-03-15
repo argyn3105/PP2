@@ -1,6 +1,6 @@
 import os
 
-path = r"C:\Users\kulek\Documents\GitHub\test\lab 6"
+path = r"C:\Users\arg_a\Documents\GitHub\test\lab 6"
 
 print("List of directories:")
 for dirpath, dirnames, filenames in os.walk(path):
