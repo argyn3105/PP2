@@ -1,5 +1,5 @@
 import json
-with open(r"c:\Users\kulek\Documents\GitHub\test\lab 4\json\sample-data.json") as mx:
+with open(r"c:\Users\arg_a\Documents\GitHub\test\lab 4\json\sample-data.json") as mx:
     json_data = mx.read()
 data = json.loads(json_data)
 print("Interface Status")
